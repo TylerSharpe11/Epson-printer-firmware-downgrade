@@ -2,7 +2,7 @@ This repo is for people that want the old version of epson firmware that lets yo
 
 I just replaced the FWCH67TL.efu file which contains the FWCH67TL.rcx firmware file from FWCH67TL.dmg to final.dmg
 
-So just running final.dmg should run and install the older firmware that works with 3rd party ink. I've only tested this on my Epson WF-7820.
+So just running downgrader.dmg should run and install the older firmware that works with 3rd party ink. I've only tested this on my Epson WF-7820.
 
 
 
